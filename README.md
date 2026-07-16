@@ -68,13 +68,6 @@ cd server
 npm install
 ```
 
-Create a `.env` file inside `server/` with the following variables:
-
-```env
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-CLIPDROP_API=your_clipdrop_api_key
-```
 
 Start the backend server:
 
@@ -89,11 +82,6 @@ cd ../client
 npm install
 ```
 
-Create a `.env` file inside `client/` with:
-
-```env
-VITE_BACKEND_URL=http://localhost:4000
-```
 
 Start the frontend:
 
