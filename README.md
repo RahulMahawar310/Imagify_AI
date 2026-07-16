@@ -2,7 +2,7 @@
 
 Imagify AI is a full-stack **text-to-image generator** built on the **MERN stack**, powered by the **ClipDrop API**. Users can describe an image in plain text and Imagify instantly generates a high-quality AI-rendered image from that prompt.
 
-🔗 **Repository:** [RahulMahawar310/Imagify_AI](https://github.com/RahulMahawar310/Imagify_AI)
+🔗 **Live:** ([https://github.com/RahulMahawar310/Imagify_AI](https://imagify-aiclient.onrender.com))
 
 ---
 
