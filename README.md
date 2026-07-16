@@ -89,7 +89,6 @@ Start the frontend:
 npm run dev
 ```
 
-The app should now be running at `http://localhost:5173` (or the port shown in your terminal).
 
 ---
 
